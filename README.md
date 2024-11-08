@@ -30,4 +30,5 @@
   yyh@ubuntu:~/Learn/aw_v3s/buildroot/buildroot-2023.02.9$
   ```
   
-  - 
+- 配置 `telnet` 和`telnetd`要在`busybox`中
+- 配置`cst`时间通过tftp下载`localtime`文件到`/etc/`目录下

@@ -3154,7 +3154,7 @@ endif
 ifneq "$(HOSTARCH)" "x86_64"
 /home/yyh/Learn/aw_v3s/buildroot/buildroot-2023.02.9/output/build/buildroot-config/auto.conf: FORCE
 endif
-ifneq "$(BR2_VERSION_FULL)" "-gff0791e2-dirty"
+ifneq "$(BR2_VERSION_FULL)" "-g3d2cfd6d-dirty"
 /home/yyh/Learn/aw_v3s/buildroot/buildroot-2023.02.9/output/build/buildroot-config/auto.conf: FORCE
 endif
 

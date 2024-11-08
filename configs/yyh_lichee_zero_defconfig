@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot -gff0791e2-dirty Configuration
+# Buildroot -g3d2cfd6d Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 BR2_HOST_GCC_AT_LEAST_4_9=y
@@ -2929,7 +2929,7 @@ BR2_PACKAGE_HAPROXY_ARCH_SUPPORTS=y
 # BR2_PACKAGE_HAPROXY is not set
 # BR2_PACKAGE_HIAWATHA is not set
 # BR2_PACKAGE_HOSTAPD is not set
-# BR2_PACKAGE_HTPDATE is not set
+BR2_PACKAGE_HTPDATE=y
 # BR2_PACKAGE_HTTPING is not set
 # BR2_PACKAGE_I2PD is not set
 # BR2_PACKAGE_IBRDTN_TOOLS is not set
