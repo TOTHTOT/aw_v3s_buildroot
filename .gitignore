@@ -55,3 +55,4 @@ output/*
 !output/images
 linux*.tar.xz
 rootfs.ext*
+!/home/yyh/Learn/aw_v3s/buildroot/buildroot-2023.02.9/output/build/busybox-1.36.1/.config
